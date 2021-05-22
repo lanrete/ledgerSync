@@ -1,0 +1,96 @@
+* 2021-05-21  Lunch with Father
+  Expense:Food:Lunch  CNY 75.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Coffee at Starbuck
+  Expense:Food:Coffee  CNY 26.8
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Medicine
+  Expense:Health&Fitness:Medicine  CNY 177.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Gift from Bao
+  Assets:Wechat:Balance  CNY 177.0
+  Income:Gift:Bao
+
+* 2021-05-17  Lunch at starbuck
+  Expense:Food:Lunch  CNY 19.36
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Dinner at McDonald
+  Expense:Food:Dinner  CNY 31.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Bus to Home
+  Expense:Commute:Bus  CNY 3.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-17  Medium membership 2021-05
+  Expense:Learning:Medium  USD 5.0
+  Liabilities:CreditCard:ICBC:Master:7956
+
+* 2021-05-17  Breakfast
+  Expense:Food:Breakfast  CNY 18.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-17  Yogurt
+  Expense:Food:Breakfast  CNY 9.9
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-18  Metro to work
+  Expense:Commute:Metro  CNY 4.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-18  Coffee at starbuck
+  Expense:Food:Coffee  CNY 26.8
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-18  Lunch at starbuck
+  Expense:Food:Lunch  CNY 19.36
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-18  Dinner
+  Expense:Food:Dinner  CNY 38.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-18  Commute to home
+  Expense:Commute:Bus  CNY 2.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-19  Commute to work
+  Expense:Commute:Metro  CNY 4.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-19  Coffee at starbuck
+  Expense:Food:Coffee  CNY 26.8
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-19  Metro to home
+  Expense:Commute:Metro  CNY 4.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-20  Metro to work
+  Expense:Commute:Metro  CNY 4.0
+  Payable:Predeposit:Trans:CommuteCard:Card
+
+* 2021-05-20  Breakfast
+  Expense:Food:Breakfast  CNY 13.9
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-20  Lunch starbuck
+  Expense:Food:Lunch  CNY 34.32
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-20  Dinner
+  Expense:Food:Dinner  CNY 89.0
+  Assets:Wechat:Balance
+
+* 2021-05-20  Didi to home
+  Expense:Commute:Didi  CNY 65.14
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
+* 2021-05-21  Lunch with Father
+  Expense:Food:Lunch  CNY 75.0
+  Liabilities:CreditCard:ICBC:UnionPay:6960
+
